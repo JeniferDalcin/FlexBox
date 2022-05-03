@@ -1,6 +1,6 @@
 # Guia de estilos
 
-Cria uma Single Page de conteúdo de vídeos responsiva usando FlexBox:
+Cria uma Single Page de conteúdo de vídeos responsiva usando FlexBox e CSS Grid.
 
 ![flex box 1](https://user-images.githubusercontent.com/83920579/166469801-0f3a0abe-5e1e-4218-94ab-5ec00be1cf6f.png)
 
@@ -10,6 +10,8 @@ Cria uma Single Page de conteúdo de vídeos responsiva usando FlexBox:
 Responsiva:
 
 ![flex box 2](https://user-images.githubusercontent.com/83920579/166470566-cbb2b702-7489-4eb8-a329-b1d9db62cdb3.png)
+
+Esse é um projeto do curso CSS: dispondo elementos com Flexbox e Grid da Alura. 
 
 ## Quer aprender na prática FlexBox?
 
