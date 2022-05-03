@@ -1,8 +1,23 @@
 # Guia de estilos
 
-Toda a estilização que será usada no projeto dentro do figma.
+Cria uma Single Page de conteúdo de vídeos responsiva usando FlexBox:
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+![flex box 1](https://user-images.githubusercontent.com/83920579/166469801-0f3a0abe-5e1e-4218-94ab-5ec00be1cf6f.png)
+
+![flex box 4](https://user-images.githubusercontent.com/83920579/166471561-d8010c2a-9f0e-43d4-b4d4-5a839c446fee.png)
+
+
+Responsiva:
+
+![flex box 2](https://user-images.githubusercontent.com/83920579/166470566-cbb2b702-7489-4eb8-a329-b1d9db62cdb3.png)
+
+## Quer aprender na prática FlexBox?
+
+Confere esse site:
+
+https://flexboxfroggy.com/
+
+![flex box 3](https://user-images.githubusercontent.com/83920579/166470938-2466f123-446d-4431-964d-ad24c458f40a.png)
 
 ## Fonte
 
@@ -93,11 +108,9 @@ Espaçamento entre o título do cartão de recentes e seus itens: `24px`
 ## Tamanhos
 
 Tamanho do dispositivo mobile: `360px`
-
 Tamanho do dispositivo desktop: `1440px`
-
 Largura máxima do conteúdo principal: `1120px`
-
 Largura máxima de um cartão desktop: `256px`
-
 Altura mínima de um cartão: `320px`
+
+[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
