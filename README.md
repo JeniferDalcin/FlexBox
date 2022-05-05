@@ -1,21 +1,20 @@
-# Guia de estilos
+# Flexbox
 
-Cria uma Single Page de conteúdo de vídeos responsiva usando FlexBox e CSS Grid.
+Create a single responsive page of video content using Flexbox and CSS Grid layout.
 
 ![flex box 1](https://user-images.githubusercontent.com/83920579/166469801-0f3a0abe-5e1e-4218-94ab-5ec00be1cf6f.png)
 
 ![flex box 4](https://user-images.githubusercontent.com/83920579/166471561-d8010c2a-9f0e-43d4-b4d4-5a839c446fee.png)
 
 
-Responsiva:
+Responsive:
 
 ![flex box 2](https://user-images.githubusercontent.com/83920579/166470566-cbb2b702-7489-4eb8-a329-b1d9db62cdb3.png)
 
-Esse é um projeto do curso CSS: dispondo elementos com Flexbox e Grid da Alura. 
+This is a exercise from Alura, CSS: dispondo elementos com Flexbox e Grid. 
 
-## Quer aprender na prática FlexBox?
-
-Confere esse site:
+## Want to learn more about Flexbox?
+Check this out!
 
 https://flexboxfroggy.com/
 
