@@ -1,6 +1,6 @@
 # Flexbox
 
-Create a single responsive page of video content using Flexbox and CSS Grid layout.
+Create a responsive landing page of video content using Flexbox and CSS Grid layout.
 
 ![flex box 1](https://user-images.githubusercontent.com/83920579/166469801-0f3a0abe-5e1e-4218-94ab-5ec00be1cf6f.png)
 
